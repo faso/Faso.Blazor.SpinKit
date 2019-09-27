@@ -3,6 +3,13 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <RazorLangVersion>3.0</RazorLangVersion>
+    <Authors>Tobias Ahlin, Arthur Tabatchnic</Authors>
+    <Company>Faso.Blazor.SpinKit</Company>
+    <Description>Blazor component wrappers around SpinKit</Description>
+    <Product />
+    <PackageProjectUrl>https://github.com/faso/Faso.Blazor.SpinKit</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/faso/Faso.Blazor.SpinKit</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
 
