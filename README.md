@@ -6,10 +6,17 @@ SpinKit is designed by [Tobias Ahlin](https://github.com/tobiasahlin)
 
 ## Usage
 
-1) Include the following in your component:
+1) Install the package by running
+
+`dotnet add package Faso.Blazor.SpinKit`
+
+or search "Faso.Blazor.SpinKit" in the NuGet directory
+
+2) Include the following directly in your component or `_Imports.razor`:
+
 `@using Faso.Blazor.SpinKit`
 
-2) Place one of the 11 available spinners in your markup (presented in the same order here as on the [demo website](https://tobiasahlin.com/spinkit/)):
+3) Place one of the 11 available spinners in your markup (presented in the same order here as on the [demo website](https://tobiasahlin.com/spinkit/)):
 ```
 <SpinKitRotatingPlane/ >
 <SpinKitDoubleBounce/ >
