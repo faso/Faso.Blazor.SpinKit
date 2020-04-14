@@ -1,5 +1,7 @@
 # Blazor.SpinKit
 
+![.NET Core](https://github.com/faso/Faso.Blazor.SpinKit/workflows/.NET%20Core/badge.svg)
+
 Simple Blazor component wrappers around [SpinKit](https://tobiasahlin.com/spinkit/)
 
 SpinKit is designed by [Tobias Ahlin](https://github.com/tobiasahlin)
